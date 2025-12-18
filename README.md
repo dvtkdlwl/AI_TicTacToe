@@ -80,5 +80,7 @@ Some structural elements and interface design are based on the course’s provid
 
 ---
 
-## License
-This project is licensed under the MIT License.
+## Gameplay
+![Start Screen](assets/start.png)
+![Gameplay](assets/gameplay.png)
+![Game Over](assets/end.png)
