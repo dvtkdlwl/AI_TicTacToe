@@ -41,7 +41,7 @@ AI_TicTacToe/
 - Pygame
 
 Install Pygame:
-pip install pygame
+pip install -r requirements.txt
 
 Run the game:
 python runner.py
